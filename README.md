@@ -1,5 +1,5 @@
 - Hi, I’m Jon S Hall aka @jonshall
-- I am a Developer | Engineer | Manager
+- I Create | Lead | Develop | Engineer
 - I am passionate about learning, coding, family, and faith
 - I’m interested in too many things to list
 - I’m currently learning PMP, Emulation, Assembly
