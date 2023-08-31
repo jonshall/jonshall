@@ -1,9 +1,8 @@
 - Hi, I’m Jon S Hall aka @jonshall
-- Create | Learn | Lead | Develop | Engineer
 - I am passionate about learning, coding, family, and faith
-- I’m interested in too many things to list
-- I’m currently learning AWS, Terraform, PMP
-- I’m looking to collaborate on open source software
+- Interested in too many things to list
+- Currently learning K8s, Helm, Terraform, PMP
+- Looking to collaborate on open-source software
 - Reach me on [LinkedIn](https://www.linkedin.com/in/jonshall/) or visit [jonshall.com](https://jonshall.com/)
 
 <!---
