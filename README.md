@@ -1,8 +1,7 @@
 Hi, I’m Jon S Hall aka @jonshall
-- I am passionate about learning, coding, family, and faith
-- Interested in too many things to list
+- I am passionate about learning, coding, cyber, family, and faith
 - Currently learning Azure, AWS, AI, Vault, K8s, Helm, and mastering Terraform
-- Looking to collaborate on open-source software
+- Looking to collaborate on open-source projects
 - Reach me on [LinkedIn](https://www.linkedin.com/in/jonshall/) or visit [jonshall.com](https://jonshall.com/)
 
 ---
